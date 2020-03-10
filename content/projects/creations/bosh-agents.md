@@ -1,26 +1,19 @@
 ---
-date: "2018-02-11T12:41:05-05:00"
-description: BOSH (Bosh Outer SHell) "<em>is an open source tool for release engineering,
-  deployment, lifecycle management, and monitoring of distributed systems.</em>" And
-  it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor
-  app running on JDK along with the support Postgres database and agents to support
-  it.  The releases manages the health of services and will automatically provision,
-  start/stop processes across the various services.
-fact: ""
+date: "2020-03-09"
+description: I have always been fascinated by data and from a young age have been self motivated to look at data and find interesting patterns and observations from the data. This interest has prompted me to work on various projects related to data analysis. 
+#fact: ""
 featured: true
-image: /img/aafb-agent-ids-match-bamboo.webp
-link: https://github.com/eddiewebb/bosh-bamboo
-tags:
-- DevOps
-- BOSH
-- Java
-- Atlassian Ecosystem
-- monit
-- python
-- xml/xslt
-- bash/shell
-- REST APIs
-title: BOSH release for Bamboo & Remote Agents
+#image: "img/check.png"
+#link: https://github.com/eddiewebb/bosh-bamboo
+#tags:
+#- DevOps
+#- BOSH
+#- Java
+#- Atlassian Ecosystem
+#- monit
+#- python
+#- xml/xslt
+#- bash/shell
+#- REST APIs
+#title: Blog Post
 ---
-
-BOSH (Bosh Outer SHell) "...<em> is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.

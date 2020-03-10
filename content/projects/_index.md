@@ -1,7 +1,7 @@
 ---
 sitemap:
   priority: 0.9
-title: Projects
+title: Blog Posts
 ---
 <!--
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creations on Aniruddha Mukherjee</title>
+    <title>Blog Posts on Aniruddha Mukherjee</title>
     <link>/projects/creations/</link>
-    <description>Recent content in Creations on Aniruddha Mukherjee</description>
+    <description>Recent content in Blog Posts on Aniruddha Mukherjee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <title></title>
       <link>/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+      <description></description>
     </item>
     
     <item>
